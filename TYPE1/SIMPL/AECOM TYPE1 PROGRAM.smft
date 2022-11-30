@@ -1,0 +1,11 @@
+<Device Model="CP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="QM-AE" DeviceId="21" Name="Crestron QM-AE"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="TS-770" DeviceId="10"/>
+      <Device Model="AM-3200" DeviceId="11"/>
+      <Device Model="CEN-ODT-C-POE" DeviceId="12"/>
+      <Device Model="TSS-752" DeviceId="13"/>
+   </Network>
+</Device>
